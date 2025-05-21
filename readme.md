@@ -8,15 +8,14 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** : Portfolio artístico 
 
 **Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:**  Gádor Salmerón
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
-
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Resumen** : Este proyecto.....
+**Estilo/género:**  Portfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
 
@@ -30,7 +29,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
 
-**Fecha** : 14/05/2020
+**Fecha** : 25/05/2025
 
 **Medios** (donde se tiene presencia relacionada):
 
@@ -133,10 +132,6 @@ Este  proyecto es interesante porque ...
 * Tipografía
 
 **Herramientas utilizadas**
-
-- Hippani Animator 5.1
-- 
-
 
 
 (imagen de la licencia, copiar y pegar aquí la correcta)
