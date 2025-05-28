@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Gádor Salmerón
 
-**Resumen** : Este proyecto.....
+**Resumen** : Este proyecto recoge todos mis intereses artísticos, tanto de la carrera como personales.
 **Estilo/género:**  Portfolio
 
 **Logotipo** : (insertar imagen y breve justificación, si  tiene) 
